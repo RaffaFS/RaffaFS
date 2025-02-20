@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffafs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffafs&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffafs&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffafs&layout=compact&theme=dracula)
