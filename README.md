@@ -26,3 +26,10 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raffafs&show_icons=true&theme=holi)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffafs&layout=compact&theme=holi)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_GITHUB&show_icons=true&theme=radical)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=SEU_GITHUB&theme=onedark)
+![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_GITHUB&theme=github)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SEU_WAKATIME)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SEU_GITHUB&theme=github)
+
+
