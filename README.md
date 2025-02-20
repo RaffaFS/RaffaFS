@@ -26,5 +26,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raffafs&show_icons=true&theme=holi)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffafs&layout=compact&theme=holi)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raffafs&show_icons=true&theme=radical)
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raffafs&theme=github)
