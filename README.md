@@ -27,9 +27,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffafs&layout=compact&theme=holi)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raffafs&show_icons=true&theme=radical)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=raffafs&theme=onedark)
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raffafs&theme=github)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=raffafs)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=raffafs&theme=github)
-
-
