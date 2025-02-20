@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffafs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffafs&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raffafs&show_icons=true&theme=dark)
+![GitHub summary](https://github-readme-stats.vercel.app/api?username=raffafs&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffafs&layout=compact&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raffafs&show_icons=true&theme=dracula)
+![GitHub summary](https://github-readme-stats.vercel.app/api?username=raffafs&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffafs&layout=compact&theme=dracula)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raffafs&show_icons=true&theme=gotham)
+![GitHub summary](https://github-readme-stats.vercel.app/api?username=raffafs&show_icons=true&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffafs&layout=compact&theme=gotham)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raffafs&show_icons=true&theme=holi)
+![GitHub summary](https://github-readme-stats.vercel.app/api?username=raffafs&show_icons=true&theme=holi)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffafs&layout=compact&theme=holi)
 
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raffafs&theme=github)
