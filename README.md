@@ -15,15 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffafs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffafs&layout=compact)
-![GitHub summary](https://github-readme-stats.vercel.app/api?username=raffafs&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffafs&layout=compact&theme=dark)
-![GitHub summary](https://github-readme-stats.vercel.app/api?username=raffafs&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffafs&layout=compact&theme=dracula)
-![GitHub summary](https://github-readme-stats.vercel.app/api?username=raffafs&show_icons=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffafs&layout=compact&theme=gotham)
-![GitHub summary](https://github-readme-stats.vercel.app/api?username=raffafs&show_icons=true&theme=holi)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffafs&layout=compact&theme=holi)
-
-![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raffafs&theme=github)
